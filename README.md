@@ -1,8 +1,4 @@
-<p align="center">
-    <img width="200" src="https://github.com/johncortes117/johncortes117/blob/main/profile-pic.png">
-</p>
-
-<h1 align="center" style="color:#07916A;"> Hola, soy John Cortés <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center" style="color:#07916A;"> John Cortés </h1>
 <p align="center" style="color:#07916A;">💻 Estudiante de Ingeniería en Ciencias de la Computación 📊</p>
 
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=johncortes117.johncortes117)
@@ -11,54 +7,53 @@
 ---
 
 ### Sobre mí
-- 🔭 Actualmente trabajando en proyectos relacionados con **Machine Learning** y **Optimización Matemática**.
-- 🌱 Aprendiendo más sobre **Python, Data Science e Inteligencia Artificial**.
+- 🔭 Actualmente trabajando en proyectos relacionados con **Data Science** y **Optimización Matemática**.
+- 🌱 Aprendiendo más sobre ** Data Science, Machile Learning e Inteligencia Artificial**.
 - 👨‍💻 Mi meta: Convertirme en un profesional líder en proyectos de investigación tecnológica.
 
 ---
 
-### Habilidades Técnicas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+### Habilidades Técnicas
 
-<a href="https://github.com/johncortes117?tab=repositories&q=&type=&language=python&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
-</a>
-<a href="https://github.com/johncortes117?tab=repositories&q=&type=&language=java&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-</a>
-<a href="https://github.com/johncortes117?tab=repositories&q=&type=&language=mysql&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
-</a>
-<a href="https://github.com/johncortes117?tab=repositories&q=&type=&language=r&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/r.svg">
-</a>
-<a href="https://github.com/johncortes117?tab=repositories&q=&type=&language=git&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
-</a>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### GitHub Stats 📈
 
-[![John's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=johncortes117&theme=react-dark&bg_color=0a0a0a&color=07916A&line=07916A&point=0a0a0a&area=true&hide_border=true)](https://git.io/praveenscience)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johncortes117&show_icons=true&theme=react&bg_color=0a0a0a&title_color=07916A&icon_color=07916A&text_color=ffffff)
 
-| ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johncortes117&show_icons=true&theme=react&bg_color=0a0a0a&title_color=07916A&icon_color=07916A&text_color=ffffff) | ![John's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johncortes117&theme=black-ice&background=0a0a0a&stroke=07916A&ring=07916A&fire=07916A&currStreakNum=ffffff&sideNums=ffffff) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johncortes117&theme=react&bg_color=0a0a0a&title_color=07916A&text_color=ffffff) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=johncortes117&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react&bg_color=0a0a0a&title_color=07916A) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johncortes117&layout=compact&theme=react&bg_color=0a0a0a&title_color=07916A&text_color=ffffff)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=johncortes117&theme=react&bg_color=0a0a0a&title_color=07916A&text_color=ffffff)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-### Conéctate conmigo <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
+### Conéctate conmigo
 
-<a href="https://www.linkedin.com/in/john-cortes">
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+<a href="https://www.linkedin.com/in/john-cortes-pozo">
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-<a href="https://github.com/johncortes117">
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-</a>
+
 <a href="mailto:stevencortespozo@gmail.com">
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/>
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
-
----
-
-*¡Gracias por visitar mi perfil! 🚀*

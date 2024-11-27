@@ -42,7 +42,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johncortes117&layout=compact&theme=react&bg_color=0a0a0a&title_color=07916A&text_color=ffffff)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=johncortes117&theme=react&bg_color=0a0a0a&title_color=07916A&text_color=ffffff)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@johncortes117&theme=react&bg_color=0a0a0a&title_color=07916A&text_color=ffffff)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@johncortes117&theme=react&bg_color=0a0a0a&title_color=07916A&text_color=ffffff&langs_count=10&hide_title=false)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 

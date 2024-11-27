@@ -1,9 +1,6 @@
 <h1 align="center" style="color:#07916A;">John Cortés</h1>
 <p align="center" style="color:#07916A;">💻 Estudiante de Ingeniería en Ciencias de la Computación 📊</p>
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=johncortes117.johncortes117)
-[![GitHub Followers](https://img.shields.io/github/followers/johncortes117?label=Follow&style=social)](https://github.com/johncortes117)
-
 ---
 
 ### Sobre mí

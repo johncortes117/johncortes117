@@ -4,8 +4,8 @@
 ---
 
 ### Sobre mí
-- 🔭 Actualmente trabajando en proyectos relacionados con **Data Science** y **Optimización Matemática**.
-- 🌱 Aprendiendo más sobre **Data Science, Machine Learning e Inteligencia Artificial**.
+- 🔍 Actualmente trabajando en proyectos relacionados con **Data Science** y **Optimización Matemática**.
+- 🚀 Aprendiendo más sobre **Data Science, Machine Learning e Inteligencia Artificial**.
 - 👨‍💻 Mi meta: Convertirme en un profesional líder en proyectos de investigación tecnológica.
 
 ---

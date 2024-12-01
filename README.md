@@ -1,16 +1,16 @@
 <h1 align="center" style="color:#07916A;">John Cortés</h1>
-<p align="center" style="color:#07916A;">💻 Estudiante de Ingeniería en Ciencias de la Computación 📊</p>
+<p align="center" style="color:#07916A;">💻 Computer Science Engineering Student 📊</p>
 
 ---
 
-### Sobre mí
-- 🔍 Actualmente trabajando en proyectos relacionados con **Data Science** y **Optimización Matemática**.
-- 🚀 Aprendiendo más sobre **Data Science, Machine Learning e Inteligencia Artificial**.
-- 👨‍💻 Mi meta: Convertirme en un profesional líder en proyectos de investigación tecnológica.
+### About Me
+- 🔍 Currently working on projects related to **Data Science** and **Mathematical Optimization**.
+- 🚀 Learning more about **Data Science, Machine Learning, and Artificial Intelligence**.
+- 👨‍💻 My goal: To become a leading professional in technology research projects.
 
 ---
 
-### 🛠️ Habilidades Técnicas 
+### 🛠️ Technical Skills 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -46,10 +46,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncortes117&layout=compact&theme=react&bg_color=0a0a0a00&title_color=07916A&text_color=ffffff&hide_border=true" width="48%" />
 </div>
 
-
 ---
 
-### Conéctate conmigo
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-cortes-pozo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevencortespozo@gmail.com)

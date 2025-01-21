@@ -46,7 +46,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncortes117&layout=compact&theme=react&bg_color=0a0a0a00&title_color=07916A&text_color=ffffff&hide_border=true" width="48%" />
 </div>
 
-<figure><embed src="https://wakatime.com/share/@johncortes117/7ee744a9-70af-43b5-9892-292b25b6e62c.svg"></embed></figure>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <figure><embed src="https://wakatime.com/share/@johncortes117/7ee744a9-70af-43b5-9892-292b25b6e62c.svg"></embed></figure>
+</div>
 
 ---
 

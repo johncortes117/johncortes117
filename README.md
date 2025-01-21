@@ -49,7 +49,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -57,7 +57,7 @@
 
 > 📦 73.5 kB Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2025
+> 🏆 21 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,13 +100,13 @@ Text                     18 mins             ░░░░░░░░░░░�
 VS Code                  21 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Python** 
 
 ```text
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
@@ -116,7 +116,7 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/johncortes117/johncortes117/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2025 17:21:12 UTC
+ Last Updated on 21/01/2025 18:45:26 UTC
 <!--END_SECTION:waka-->
 
 ---

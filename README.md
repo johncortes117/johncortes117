@@ -47,6 +47,7 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
+  <h1 align="center" style="color:#07916A;">WakaTime</h1>
   <figure><embed src="https://wakatime.com/share/@johncortes117/7ee744a9-70af-43b5-9892-292b25b6e62c.svg"></embed></figure>
 </div>
 

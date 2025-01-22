@@ -49,15 +49,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 73.5 kB Used in GitHub's Storage 
- > 
-> 🏆 21 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,14 +88,14 @@ Sunday                   144 commits         ███████████�
 
 ```text
 💬 Programming Languages: 
-HTML                     11 hrs 51 mins      ██████████████░░░░░░░░░░░   54.04 % 
-CSS                      6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-JavaScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Python                   1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+HTML                     9 hrs 31 mins       ████████████████░░░░░░░░░   64.26 % 
+CSS                      2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Python                   1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +114,7 @@ CSS                      2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/johncortes117/johncortes117/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2025 18:45:26 UTC
+ Last Updated on 22/01/2025 18:46:00 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-- 🔍 Currently working on projects related to **Data Science** and **Mathematical Optimization**.
+- 🔍 Currently working on projects related to **Data Science** and **Machine Learning**.
 - 🚀 Learning more about **Data Science, Machine Learning, and Artificial Intelligence**.
 - 👨‍💻 My goal: To become a leading professional in technology research projects.
 

@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#07916A;">John Cortés</h1>
-<p align="center" style="color:#07916A;">💻 Computer Science Engineering Student 📊</p>
+<h1 align="center">John Cortés</h1>
+<p align="center">💻 Computer Science Engineering Student 📊</p>
 
 ---
 

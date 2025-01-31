@@ -1,4 +1,4 @@
-<h1 align="center">John Cortés</h1>
+<h1>John Cortés</h1>
 <p align="center">💻 Computer Science Engineering Student 📊</p>
 
 ---

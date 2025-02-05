@@ -47,15 +47,17 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 76.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 143 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,14 +90,14 @@ Sunday                   156 commits         ███████████�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 3 mins         █████████░░░░░░░░░░░░░░░░   35.16 % 
-Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Git Config               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Python                   1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.86 % 
+HTML                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Git Config               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 
 🔥 Editors: 
-VS Code                  3 hrs               █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +117,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/johncortes117/johncortes117/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2025 18:45:03 UTC
+ Last Updated on 05/02/2025 18:45:28 UTC
 <!--END_SECTION:waka-->
 
 ---

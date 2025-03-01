@@ -47,7 +47,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -56,6 +56,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 76.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 147 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,7 +117,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/johncortes117/johncortes117/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2025 18:46:42 UTC
+ Last Updated on 01/03/2025 18:43:24 UTC
 <!--END_SECTION:waka-->
 
 ---

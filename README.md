@@ -88,11 +88,10 @@ Sunday                   154 commits         ██████████░�
 
 ```text
 💬 Programming Languages: 
-CSS                      8 mins              █████████████░░░░░░░░░░░░   50.40 % 
-PHP                      8 mins              ████████████░░░░░░░░░░░░░   49.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +111,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/johncortes117/johncortes117/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2025 18:47:34 UTC
+ Last Updated on 07/03/2025 18:46:29 UTC
 <!--END_SECTION:waka-->
 
 ---

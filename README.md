@@ -57,8 +57,6 @@
 
 > 📦 76.0 kB Used in GitHub's Storage 
  > 
-> 🏆 150 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -90,10 +88,10 @@ Sunday                   154 commits         ██████████░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +111,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/johncortes117/johncortes117/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2025 18:47:39 UTC
+ Last Updated on 14/03/2025 18:46:18 UTC
 <!--END_SECTION:waka-->
 
 ---

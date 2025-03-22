@@ -55,7 +55,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 76.1 kB Used in GitHub's Storage 
+> 📦 76.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 157 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,7 +116,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/johncortes117/johncortes117/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2025 18:47:55 UTC
+ Last Updated on 22/03/2025 18:44:52 UTC
 <!--END_SECTION:waka-->
 
 ---

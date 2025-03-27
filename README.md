@@ -47,8 +47,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
@@ -56,6 +54,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 76.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 161 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,10 +88,10 @@ Sunday                   154 commits         ██████████░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/johncortes117/johncortes117/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2025 18:49:36 UTC
+ Last Updated on 27/03/2025 18:49:16 UTC
 <!--END_SECTION:waka-->
 
 ---

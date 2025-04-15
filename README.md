@@ -47,15 +47,17 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 79.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 241 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,14 +90,14 @@ Sunday                   162 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-TypeScript               2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Gradle Kotlin DSL        1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Dart                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+TypeScript               2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.86 % 
+Dart                     1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Gradle Kotlin DSL        1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +117,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/johncortes117/johncortes117/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2025 18:50:22 UTC
+ Last Updated on 15/04/2025 18:49:20 UTC
 <!--END_SECTION:waka-->
 
 ---

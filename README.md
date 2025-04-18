@@ -110,13 +110,6 @@ Dart                     1 repo              █░░░░░░░░░░�
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/johncortes117/johncortes117/main/assets/bar_graph.png)
-
-
  Last Updated on 18/04/2025 14:27:47 UTC
 <!--END_SECTION:waka-->
 

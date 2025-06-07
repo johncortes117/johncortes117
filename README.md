@@ -47,15 +47,17 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 85.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 413 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,14 +92,14 @@ Sunday                   175 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Guayaquil
 
 💬 Programming Languages: 
-Markdown                 3 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.56 % 
-Python                   2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-TypeScript               1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Markdown                 3 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.35 % 
+Python                   3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.71 % 
+TypeScript               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +115,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2025 18:52:53 UTC
+ Last Updated on 07/06/2025 18:50:16 UTC
 <!--END_SECTION:waka-->
 
 ---

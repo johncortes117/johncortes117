@@ -47,6 +47,8 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2055%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
@@ -57,9 +59,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -88,12 +90,12 @@ Sunday                   175 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Guayaquil
 
 💬 Programming Languages: 
-Python                   10 hrs 20 mins      ████████████████████████░   96.85 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Python                   13 hrs 1 min        ████████████████████████░   97.48 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +111,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 18:53:30 UTC
+ Last Updated on 02/07/2025 18:54:32 UTC
 <!--END_SECTION:waka-->
 
 ---

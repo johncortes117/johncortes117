@@ -47,7 +47,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,8 +56,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 85.4 kB Used in GitHub's Storage 
- > 
-> 🏆 429 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,7 +90,7 @@ Sunday                   175 commits         ██████░░░░░�
 🕑︎ Time Zone: America/Guayaquil
 
 💬 Programming Languages: 
-Python                   5 hrs 5 mins        ███████████████████████░░   92.59 % 
+Python                   5 hrs 4 mins        ███████████████████████░░   92.59 % 
 Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
@@ -115,7 +113,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2025 18:56:05 UTC
+ Last Updated on 19/07/2025 18:53:32 UTC
 <!--END_SECTION:waka-->
 
 ---

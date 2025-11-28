@@ -47,7 +47,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -92,11 +92,12 @@ Sunday                   195 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Guayaquil
 
 💬 Programming Languages: 
-Python                   1 hr 43 mins        ████████████████████████░   94.56 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Python                   3 hrs 37 mins       ████████████████████████░   97.31 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +113,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2025 18:53:28 UTC
+ Last Updated on 28/11/2025 18:53:15 UTC
 <!--END_SECTION:waka-->
 
 ---

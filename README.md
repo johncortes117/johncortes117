@@ -49,7 +49,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -92,13 +92,13 @@ Sunday                   198 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Guayaquil
 
 💬 Programming Languages: 
-Python                   1 hr 52 mins        ████████████████████████░   94.19 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Python                   1 hr 52 mins        ████████████████████████░   94.83 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2025 18:51:42 UTC
+ Last Updated on 21/12/2025 18:53:19 UTC
 <!--END_SECTION:waka-->
 
 ---

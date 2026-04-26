@@ -1,5 +1,5 @@
 <h1 align="center">John Cortés</h1>
-<p align="center">🤖 AI Engineer & Tech Lead 🚀</p>
+<p align="center">AI Engineer & Tech Lead</p>
 
 ---
 

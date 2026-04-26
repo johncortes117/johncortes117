@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-- 🧠 **AI Systems Architect**: Specialized in building autonomous agent systems and multi-agent orchestration using **LangGraph** and **LangChain**.
+- 🧠 **AI Systems Architect**: Specialized in building autonomous agent systems and multi-agent orchestration.
 - 🛠️ **Fullstack Focus**: Developing robust backends with **FastAPI** and modern interfaces with **Next.js**, integrating **AI Systems**.
 - 🏆 **Community Leader**: Chair of the **IEEE Student Branch UPEC 2026** and leader at **DevClub**, driving innovation through hackathons and technical mentorship.
 - 👨‍💻 **Current Goal**: Professionalizing the development of Generative AI solutions and leading high-impact projects.
